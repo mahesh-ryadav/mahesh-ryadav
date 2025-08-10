@@ -27,7 +27,7 @@
 
 ### LeetCode 
 
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Expose your problem-solving skills-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/mahesh_ryadav/)
+![LeetCode Stats](https://github-readme-stats.vercel.app/api/leetcode?username=mahesh_ryadav)
 
 
 
