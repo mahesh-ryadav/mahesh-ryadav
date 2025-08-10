@@ -25,6 +25,12 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
+### LeetCode 
+
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Expose your problem-solving skills-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/mahesh_ryadav/)
+
+
+
 ### 📌 Featured Projects
 
 [![VarnAI](https://github-readme-stats.vercel.app/api/pin/?username=mahesh-ryadav&repo=VarnAI&theme=radical)](https://github.com/mahesh-ryadav/VarnAI)
