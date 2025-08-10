@@ -1,7 +1,7 @@
 
 # 👋 Hey, I'm Mahesh Yadav
 
-💻 **Full Stack Developer** | Java • Spring Boot • React  
+💻 **Full Stack Developer** | Java • Node Js • Spring Boot • React  
 🌱 Learning AWS & DevOps  
 🚀 Passionate about building **scalable web apps**
 
