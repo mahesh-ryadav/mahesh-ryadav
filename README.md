@@ -1,3 +1,4 @@
+<img src="https://github.com/mahesh-ryadav/mahesh-ryadav/blob/main/bannerjpeg.jpeg?raw=true" alt="Mahesh Yadav Banner" width="100%"/>
 
 # 👋 Hey, I'm Mahesh Yadav
 
