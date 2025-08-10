@@ -27,7 +27,7 @@
 
 ### LeetCode 
 
-![LeetCode Stats](https://github-readme-stats.vercel.app/api/leetcode?username=mahesh_ryadav)
+[![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=mahesh_ryadav&theme=dark)](https://leetcode.com/u/mahesh_ryadav/)
 
 
 
